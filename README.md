@@ -117,9 +117,10 @@ To deploy the website on live stream, we just need to run "npm start" on the ter
 - [JWT](https://jwt.io/) - Authentication and Authorization
 
 ## ✍️ Authors <a name = "authors"></a>
-- [@irfan9814](https://github.com/irfan9814) - Idea & Initial work
-- [@ajsat007](https://github.com/ajsat007) - Idea & Initial work
-- [Project Repository - Github](https://github.com/irfan9814/Instagram-Clone)
+- [Md Irfan Ansari](https://github.com/irfan9814) - Idea & Initial work
+- [Ajinkya Satkar](https://github.com/ajsat007) - Idea & Initial work
+- [Aniket Garg](https://github.com/javaniket) - Idea & Initial work
+- [Project Repository - Github](https://github.com/ajsat007/InstaCartClone)
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - Inspiration: 
