@@ -5,7 +5,7 @@
  <img width=600px height=250px src="https://www.instacart.com/assets/beetstrap/brand/2022/instacart-logo-color-6678cb82d531f8910d5ba270a11a7e9b56fc261371bda42ea7a5abeff3492e1c.svg" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Instagram Clone</h3>
+<h3 align="center">InstaCart Clone</h3>
 
 <div align="center">
 
