@@ -34,11 +34,11 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-Instagram Clone is a full-stack software application developed to replicate the core features of the popular social media platform, Instagram. This project includes the basic features such as user registration, profile creation, uploading and sharing photos and videos, commenting and liking functionality, a news feed to display user activity, and direct messaging.
-The aim of this project is to provide a similar user experience to the original app, with additional features and customization options. With this clone, users can create their own profiles, connect with friends and family, share their photos and videos, and engage with others in a social network environment.
+InstaCart Clone is a full-stack software application developed to replicate the core features of the popular E-commerce platform, InstaCart. This project includes basic features such as user registration, profile creation, .....
+The aim of this project is to provide a similar user experience to the original app, with additional features and customization options. With this clone, users can create their own profiles, ....
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing. See [deployment](#deployment) for notes on deploying the project on a live system.
 
 ### Prerequisites
 What things you need to install the software and how to install them.
