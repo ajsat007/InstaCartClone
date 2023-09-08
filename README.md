@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=600px height=250px src="https://www.instacart.com/assets/instacart_favicon_48x48-25ac28f848f7cf81a9c8a9aad693a898.png" alt="Project logo"></a>
+ <img width=600px height=250px src="https://www.instacart.com/assets/beetstrap/brand/2022/instacart-logo-color-6678cb82d531f8910d5ba270a11a7e9b56fc261371bda42ea7a5abeff3492e1c.svg" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Instagram Clone</h3>
